@@ -1,0 +1,9 @@
+.idea
+.env
+venv/
+airflow/logs
+airflow/plugins
+__pycache__
+pipeline_secrets.conf
+client_secrets.json
+test.py
